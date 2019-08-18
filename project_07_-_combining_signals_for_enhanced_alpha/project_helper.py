@@ -36,7 +36,7 @@ class Sector(Classifier):
     missing_value = -1
 
     def __init__(self):
-        self.data = np.load('../../data/project_7_sector/data.npy')
+        self.data = np.load('data/data.npy')
 
     def _compute(self, arrays, dates, assets, mask):
         return np.where(
