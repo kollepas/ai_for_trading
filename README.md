@@ -18,6 +18,7 @@
 
 ### 7. [Combining Signals for Enhanced Alpha](https://github.com/kollepas/ai_for_trading/tree/master/project_07_-_combining_signals_for_enhanced_alpha)
 
+### 8. [Backtesting](https://github.com/kollepas/ai_for_trading/tree/master/project_08_-_backtesting)
 
 ## License
 ---
